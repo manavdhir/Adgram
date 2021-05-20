@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193534302028",
+    "firebase_url": "https://ad-network-app-default-rtdb.firebaseio.com",
+    "project_id": "ad-network-app",
+    "storage_bucket": "ad-network-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193534302028:android:eac424026b0aa8535161e9",
+        "android_client_info": {
+          "package_name": "com.example.instagram_ad_network_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193534302028-4nodkb24ui098ne36k0t9lj9qlthtsu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtiMuR_ANzXrLpC5g4qtgiMNCi2K_ypQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193534302028-4nodkb24ui098ne36k0t9lj9qlthtsu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
