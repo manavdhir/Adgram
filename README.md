@@ -1,10 +1,9 @@
 # instagram_ad_network_app
 
-A new Flutter project.
+adgram is basically a flutter hybrid cross platform application that is a community for influencers and advertisers . the influencers can be connected to various advertisers and vice versa for various social media promotions
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
